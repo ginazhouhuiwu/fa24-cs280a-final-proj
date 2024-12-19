@@ -7,7 +7,7 @@ This project has this branch dependency: https://github.com/nerfstudio-project/n
 Please make sure you check out the correct branch.
 
 ### 1. Clone this repo
-`git clone https://github.com/kerrj/lerf`
+`git clone https://github.com/ginazhouhuiwu/fa24-cs280a-final-proj`
 
 ### 2. Install this repo as a python package
 Navigate to this folder and run `python -m pip install -e .`
